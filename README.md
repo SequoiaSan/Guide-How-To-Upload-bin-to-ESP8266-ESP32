@@ -1,4 +1,4 @@
-# How To Upload *.bin to ESP8266-ESP32
+# How To Upload *.bin to ESP8266/ESP32
 This is a short guide how to upload precompiled bin files to ESP8266/ESP32 
 If you have something to add or troubles - leave the issue that is not covered by this guide and we can try to figure it out.
 
