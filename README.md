@@ -26,7 +26,7 @@ For ESP8266
 
 For ESP32S2
 
-![ESP32S2_2](https://github.com/SequoiaSan/Guide-How-To-Upload-bin-to-ESP8266-ESP32/blob/main/rep_images/espriff_flasher_interface_esp32s2_1.png?raw=true)
+![ESP32S2_1](https://github.com/SequoiaSan/Guide-How-To-Upload-bin-to-ESP8266-ESP32/blob/main/rep_images/espriff_flasher_interface_esp32s2_1.png?raw=true)
 
 5. Click START. After successful flash your window will look like this
 
@@ -36,6 +36,6 @@ For ESP8266
 
 For ESP32S2
 
-
+![ESP32S2_2](https://github.com/SequoiaSan/Guide-How-To-Upload-bin-to-ESP8266-ESP32/blob/main/rep_images/espriff_flasher_interface_esp32s2_2.png?raw=true)
 
 **That's it! Have fun :)**
