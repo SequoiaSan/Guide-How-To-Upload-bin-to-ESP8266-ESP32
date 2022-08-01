@@ -12,13 +12,23 @@ For example for ESP8266 select ESP8266 (your captain)
 
 ![Select_ESP8266](https://github.com/SequoiaSan/Guide-How-To-Upload-bin-to-ESP8266-ESP32/blob/main/rep_images/espriff_flasher_select_chip_type_esp8266_1.png?raw=true)
 
-For FlipperZero's dev board select ESP32S2
+**For FlipperZero's dev board select ESP32S2**
 
 ![FlipperZero_devboard_chip](https://github.com/SequoiaSan/Guide-How-To-Upload-bin-to-ESP8266-ESP32/blob/main/rep_images/espriff_flasher_select_chip_type_esp32s2_2.png?raw=true)
 
 4. On next window leave all by default. See next screenshots as reference.
-The only thing you need to choose - appropriate COM port to which your ESP currently connected
+Choose .bin file. Don't forget to tick the box on the left near the text box with chosen .bin
+
+### **!ATTENTION! Choose appropriate offset!!!**
+| Chip  | Offset |
+| - | - |
+| ESP8266  | 0x0  |
+| ESP32  | 0x100000  |
+
+
+Choose - COM port to which your ESP currently connected
 And you may want to choose higher BAUD rate to speed up flash process.
+
 
 For ESP8266
 
