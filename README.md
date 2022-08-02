@@ -23,7 +23,7 @@ Choose .bin file. Don't forget to tick the box on the left near the text box wit
 | Chip  | Offset |
 | - | - |
 | ESP8266  | 0x0  |
-| ESP32  | 0x100000  |
+| ESP32  | 0x10000  |
 
 
 Choose - COM port to which your ESP currently connected
