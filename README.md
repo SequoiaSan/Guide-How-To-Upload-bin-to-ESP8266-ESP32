@@ -2,7 +2,7 @@
 This is a short guide how to upload precompiled bin files to ESP8266/ESP32 
 If you have something to add or troubles - leave the issue that is not covered by this guide and we can try to figure it out.
 
-# Method
+# Method (Windows)
 Don't be scared of this method by its old-school UI-UX, just follow the instructions with provided screenshots and you should be good.
 
 1. Download official latest ESPRESSIF flasher from [this page](https://www.espressif.com/en/support/download/other-tools). Link to version used for this guide you can find [here](https://www.espressif.com/sites/default/files/tools/flash_download_tool_3.9.2.zip)
