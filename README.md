@@ -25,6 +25,8 @@ Choose .bin file. Don't forget to tick the box on the left near the text box wit
 | ESP8266  | 0x0  |
 | ESP32  | 0x10000  |
 
+### Note to FlipperZero's Dev Module v.1 and any other boards that have BOOT button
+The BOOT button has to be pressed while connecting the dev board to the usb port to detect the board as the right one and to show the right COM Port.
 
 Choose - COM port to which your ESP currently connected
 And you may want to choose higher BAUD rate to speed up flash process.
